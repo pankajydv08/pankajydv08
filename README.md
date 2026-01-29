@@ -1,4 +1,4 @@
-<h1 align="center">👨‍💻 Pankaj Yadav</h1>
+<h1 align="center"> Pankaj Yadav</h1>
 
 <div align="center">
   <a href="https://git.io/typing-svg">
@@ -11,7 +11,7 @@
   
   <div style="margin-left: 200px;">
     <h3>Summary</h3>
-    <pre>Hi, I'm Pankaj! 👋
+    <pre>Hi, I'm Pankaj! ðŸ‘‹
 I'm a Full-Stack Web Developer with a passion for AI . I love building intelligent, secure,
 and scalable applicationsthat solve real-world problems. Always exploring new technologies, 
 contributing to open-source, and collaborating with like-minded developers.
@@ -24,7 +24,7 @@ Let's connect,learn, and build together!</pre>
 <br>
 ---
 
-## 🛠️ Technology Stack
+## ðŸ› ï¸ Technology Stack
 
   <summary><b>Programming Languages</b></summary>
   <br>
@@ -96,6 +96,6 @@ Let's connect,learn, and build together!</pre>
 
   </div>
 
-<h1>⟑�
+<h1>âŸ‘€
   <img src="https://komarev.com/ghpvc/?username=pankajydv07&style=flat&font=blue">
 </h1>
